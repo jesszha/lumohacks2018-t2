@@ -1,0 +1,3 @@
+buildHeartRate = function() {
+
+}
